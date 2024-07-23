@@ -1,8 +1,7 @@
-# React + Vite
+My submissions for course Full Stack Open
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Exercises 6.1 - 6.2: https://github.com/imandresmorales/unicafe-redux
 
-Currently, two official plugins are available:
+Exercises 6.3 - 6.19: https://github.com/imandresmorales/redux-anecdotes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Exercises 6.20 - 6.24: https://github.com/imandresmorales/query-anecdotes
